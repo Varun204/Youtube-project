@@ -1,0 +1,285 @@
+.thumbnail{
+    width:100%;
+    border-radius: 14px;
+    cursor: pointer;
+}
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 100%;
+    column-gap: 18px;
+    row-gap:35px;
+    z-index: 0;
+}
+.image{
+    position: relative;
+}
+
+.first-class{
+ width: 340px;
+}
+.second-class{
+   width:340px ;
+} 
+.third-class{
+    width: 340px;
+}
+.fourth-class{
+    width:342px;
+
+} 
+.fifth-class{
+ width: 340px;
+
+}
+.sixth-class{
+    width:340px;
+}
+.seventh-class{
+ width: 340px;
+
+}
+.eigth-class{
+    
+ width: 340px;
+}
+.nine-class{
+ width: 340px;
+
+}
+.ten-class{
+ width: 340px;
+
+}
+.eleven-class{
+ width: 340px;
+
+
+}
+.twelve-class{
+ width:340px;
+
+}
+
+
+.channel-s{
+    color:#606060;
+    margin-left: 6px;
+    margin-top: 0;
+}
+.view-s{
+    color: #606060;
+    margin-left: 6px;
+    margin-top: 0;
+}
+.info{
+    color: #606060;
+}
+.end{
+    color: #606060;
+}
+.info-3{
+    color: #606060;
+    margin-left: 5px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+}
+.end-3{
+    color: #606060;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.info-4{
+    color: #606060;
+    margin-left: 2px;
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.end-4{
+    color: #606060;
+    margin-left: 2px;
+}
+.info-2{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 0px;
+}
+.end-2{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.info-5{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+    margin-bottom: 8px;
+
+}
+.end-5{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 3px;
+}
+.info-6{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+
+}
+.end-6{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.info-7{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.end-7{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.info-8{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.end-8{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.info-9{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.end-9{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.info-10{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.end-10{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.info-11{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.end-11{
+    color: #606060;
+    margin-left: 8px;
+    margin-top: 2px;
+
+}
+.video-link{
+    color: black;
+}
+.video-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.channel-pic{
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 200px;
+}
+.channel-info{
+    display:inline-block;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.profile-pic{
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 3px;
+}
+.video-title{
+    margin-top: 4px;
+    margin-left: 8px;
+    width: 250px;
+}
+.profile-pic1{
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 3px;
+}
+.channel-pic1{
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 50px;
+    width: 50px;
+}
+.channel-s1{
+    margin-top: 4px;
+    margin-bottom: 0;
+    margin-left: 8px;
+    color: #606060;
+
+}
+.view-s1{
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: 8px;
+    color: #606060;
+
+}
+.profile-pic2{
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 2px;
+}
+
+.profile-pic3{
+    margin-top: 8px;
+    width:50px ;
+    margin-left: 0;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.channel-info4{
+    padding-left: 10px;
+    padding-right: 0;
+}
+.video-time{
+    font-family: roboto, Arial;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 3px;
+}
+body{
+    margin: 0;
+    padding-top: 80px;
+    padding-left:90px;
+    padding-right:30px;
+    background-color: rgb(248,248,248);
+}
